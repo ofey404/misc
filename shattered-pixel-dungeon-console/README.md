@@ -19,8 +19,10 @@ Save file structure:
 
 ## Usage
 
+Please use full path in `.env` file!
+
 ```bash
-echo "SPD_PATH=~/snap/shattered-pixel-dungeon/common/.shatteredpixel/shattered-pixel-dungeon" > .env
+echo "SPD_PATH=/home/ofey/snap/shattered-pixel-dungeon/common/.shatteredpixel/shattered-pixel-dungeon" > .env
 source .env
 
 chmod 774 ./console.sh
