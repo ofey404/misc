@@ -1,0 +1,6 @@
+{"cursedKnown":true,"quantity":1,"charge":3,"levelKnown":true,"cursed":false,"level":0,"quickslotpos":0,"partialcharge":0,"__className":"com.shatteredpixel.shatteredpixeldungeon.items.artifacts.MasterThievesArmband","exp":0}
+
+{"cursedKnown":false,"quantity":10,"levelKnown":false,"cursed":false,"level":0,"__className":"com.shatteredpixel.shatteredpixeldungeon.items.scrolls.ScrollOfTransmutation"}
+
+{"cursedKnown":true,"quantity":1,"levelKnown":true,"cursed":false,"level":2,"__className":"com.shatteredpixel.shatteredpixeldungeon.items.rings.RingOfEnergy","levels_to_ID":0}
+

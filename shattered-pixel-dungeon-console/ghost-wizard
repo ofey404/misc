@@ -1,0 +1,8 @@
+inventorys:
+
+{"cursedKnown":true,"quantity":1,"levelKnown":true,"cursed":false,"partialCharge":0.43918120861053467,"level":2,"uses_left_to_id":10,"available_uses":5,"curCharges":6,"curChargeKnown":true,"__className":"com.shatteredpixel.shatteredpixeldungeon.items.wands.WandOfCorruption","curse_infusion_bonus":false}
+
+buffs:
+
+{"spawnpower":1,"__className":"com.shatteredpixel.shatteredpixeldungeon.items.quest.CorpseDust$DustGhostSpawner","time":0,"id":294}
+

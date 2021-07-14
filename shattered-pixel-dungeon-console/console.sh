@@ -17,7 +17,7 @@ GAME_FILE="$DATA_PATH/game.dat"
 cp "$GAME_FILE" "$GAME_FILE.backup"
 echo "## Backuped game file in $GAME_FILE.backup ##"
 
-JSON_FILE="game.json"
+JSON_FILE="$ID.json"
 gunzip -S dat "$GAME_FILE" -c > $JSON_FILE
 
 # EDITOR
